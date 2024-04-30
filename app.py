@@ -18,7 +18,7 @@ st.divider()    # 👈 Draws a horizontal rule
 
 #########################
 
-st.image('logo_bmkg.jpg', caption='Sunrise by the mountains')
+st.image('logo_bmkg.png', caption='Sunrise by the mountains')
 
 st.audio("relax music.mp3", format="audio/mpeg")
 
